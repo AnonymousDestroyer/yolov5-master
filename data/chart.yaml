@@ -1,0 +1,10 @@
+
+
+path: ../datasets/VOC
+train: D:\PycharmProjects\yolov5-master\data\datasets\VOCdevkit\images\train
+val: D:\PycharmProjects\yolov5-master\data\datasets\VOCdevkit\images\val
+
+# Classes
+nc: 3  # number of classes
+names: ['chart', 'title', 'table']  # class names
+
